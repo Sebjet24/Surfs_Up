@@ -10,12 +10,12 @@
 ### December Temperature Statistics
 ![DECEMBER](https://user-images.githubusercontent.com/91230277/148702544-f080df2b-ba34-4811-a328-947d6fc3ff22.png)
 
-These two tables tell us about the differing weather patterns for the two monthly periods. Some takeaways:
+These two tables show how the weather trends for the two monthly periods differ. Some key points to overview:
+ - Between June and December, the average temperature is 75 degrees and 71 degrees, respectively, indicating a moderate temperature with minimal variation between the two times.
+ - The highest temperatures of 85 degrees Fahrenheit in June and 83 degrees Fahrenheit in December are also very comparable.
+ - The largest difference is between the minimum temperatures of 56 (December) and 64 (June), which represents a considerably lower temperature level in December that may not be favorable to ice cream or surfing. We would expect a bit greater volatility in the December statistics, with standard deviations of 3.25 (June) and 3.74 (December).
 
-Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
-the maximum temperatures of 85 (June) and 83 (December) are also remarkable similar.
-the minimum temperature of 56 (December) and 64 (June) show the greatest variance, and reflects a much lower temperature level in December that may not be conducive to ice cream or surfing. However, with standard deviations of 3.25 (June) and 3.74 (December) we would expect a little more variation in the december numbers.
 ## Summary
-Oevrall the weather in December and June are historically very similar, although December has a wider range of results, with its high being close to June's but its low well below June's.
+Historically, the weather in December and June has been relatively similar, albeit December has a broader range of outcomes, with a high that is similar to June's but a low that is much below June's.
 
-Additional queries that could be run include: Precipation difference between June and December to determine is one has more rainy weather, as well as a comaparison by weather station, as we may see higher/lower temperatures and precipitation levels at different locations. We would be primarily interested in the weather station closest to our prospective location, which would narrow the results and provide the best data for us to consider.
+Additional searches that might be done include: the difference in precipitation between June and December to discover which month has more wet weather, as well as a comparison by weather station, since various weather stations may have higher/lower temperatures and precipitation levels. I'd be most interested in the weather station nearest to our potential site, since this would restrict the results and give us with the most relevant data.
